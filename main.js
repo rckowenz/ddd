@@ -1,5 +1,5 @@
 function enterPortal() {
-    const audio = new Audio('bandz.mp3');
+    const audio = new Audio('IMA_STOMP_U_OUT.mp3');
     const typing = document.getElementById('typing');
     const cursor = document.getElementById('cursor');
     const texts = ["damnkore", "on", "top"];
